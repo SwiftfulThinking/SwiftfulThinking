@@ -1,5 +1,6 @@
 ### What's up everyone! I'm Nick 🤙
 
+- 🥷 I am a self-proclaimed SwiftUI ninja
 - 🥳 I teach SwiftUI on YouTube [@SwiftfulThinking](https://youtube.com/c/SwiftfulThinking/)
 - 😎 I work for an app developement agency
 - 🆘 I can help with your Swift questions/projects/mentorship on [CodeMentor](https://www.codementor.io/@nicholassarno)
