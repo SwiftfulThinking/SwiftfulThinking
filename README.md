@@ -7,4 +7,4 @@
 
 ### If you enjoy my content, please consider supporting my coffee addiction:
 
-<a href="https://www.buymeacoffee.com/nicksarno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nicksarno&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nicksarno" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
