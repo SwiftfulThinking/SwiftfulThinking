@@ -2,7 +2,6 @@
 
 - 🥳 I teach Swift on YouTube [@SwiftfulThinking](https://youtube.com/c/SwiftfulThinking/)
 - 😎 I work for an app developement agency
-- 🆘 I can help with your Swift questions/projects/mentorship on [CodeMentor](https://www.codementor.io/@nicholassarno)
 - 💬 More about me on [my website](https://www.nicksarno.com)
 
 ### If you enjoy my content, please consider supporting my coffee addiction:
