@@ -1,8 +1,6 @@
 ### What's up everyone! I'm Nick 🤙
 
 - 🥳 I teach Swift on YouTube [@SwiftfulThinking](https://youtube.com/c/SwiftfulThinking/)
-- 😎 I work for an app developement agency
-- 💬 More about me on [my website](https://www.nicksarno.com)
 
 ### If you enjoy my content, please consider supporting my coffee addiction:
 
