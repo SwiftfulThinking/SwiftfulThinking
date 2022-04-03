@@ -1,7 +1,16 @@
-### What's up everyone! I'm Nick 🤙
+<h3 align="center">Swiftful Thinking</h3>
 
-- 🥳 I teach Swift on YouTube [@SwiftfulThinking](https://youtube.com/c/SwiftfulThinking/)
+<p align="center">
+  <a href="https://youtube.com/c/SwiftfulThinking">YouTube</a> •
+  <a href="https://github.com/SwiftfulThinking">Github</a> •
+  <a href="https://www.linkedin.com/in/nicholassarno/">LinkedIn</a> •
+  <a href="https://www.nicksarno.com">Website</a>
+</p>
 
-### If you enjoy my content, please consider supporting my coffee addiction:
+<h5 align="center">"SAFE CODE IS GREAT CODE"</h5>
 
-<a href="https://www.buymeacoffee.com/nicksarno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nicksarno&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
+---
+
+- 💻 Swift tutorials on [YouTube @SwiftfulThinking](https://youtube.com/c/SwiftfulThinking)
+- ☕️ Support the channel on [BuyMeACoffee @nicksarno](https://www.buymeacoffee.com/nicksarno/) 
+- 🥳 Join the community on [Discord @SwiftfulThinking](https://discord.gg/vhKKyYTGDb)
