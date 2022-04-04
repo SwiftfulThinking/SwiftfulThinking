@@ -12,5 +12,5 @@
 ---
 
 - 💻 Swift tutorials on [YouTube @SwiftfulThinking](https://youtube.com/c/SwiftfulThinking)
-- ☕️ Support the channel on [BuyMeACoffee @nicksarno](https://www.buymeacoffee.com/nicksarno/) 
 - 🥳 Join the community on [Discord @SwiftfulThinking](https://discord.gg/vhKKyYTGDb)
+- ☕️ Support the channel on [BuyMeACoffee @nicksarno](https://www.buymeacoffee.com/nicksarno/) 
