@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/nicholassarno/">LinkedIn</a>
 </p>
 
-<h5 align="center">"SAFE CODE IS GREAT CODE"</h5>
-
 ---
 
 - 💻 Swift tutorials on [YouTube @SwiftfulThinking](https://youtube.com/c/SwiftfulThinking)
