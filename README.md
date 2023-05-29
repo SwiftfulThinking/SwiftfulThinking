@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtube.com/c/SwiftfulThinking">YouTube</a> •
-  <a href="www.swiftful-thinking.com/">Website</a> •
+  <a href="https://www.swiftful-thinking.com/">Website</a> •
   <a href="https://www.linkedin.com/in/nicholassarno/">LinkedIn</a>
 </p>
 
